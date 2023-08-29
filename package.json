@@ -1,5 +1,12 @@
 {
 	"name": "svelte-demo",
+	"author": {
+		"name": "nyatinte",
+		"email": "takumi.062757@gmail.com",
+		"url": "https://github.com/nyatinte"
+	},
+	"homepage": "https://github.com/nyatinte/svelte-demo",
+	"license": "MIT",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -32,5 +39,8 @@
 		"vite": "^4.4.2",
 		"vitest": "^0.32.2"
 	},
-	"type": "module"
+	"type": "module",
+	"volta": {
+		"node": "18.17.1"
+	}
 }
